@@ -23,3 +23,17 @@ The MyNotes app is a simple note-taking application designed for Android devices
 - Delete notes to manage content effectively.
 
 ## Future Updates
+
+1. **Sign Out:**
+   - A sign-out feature will be added in future updates to provide users with the flexibility to log out.
+
+2. **Multiple User Support:**
+   - Enhancements to support multiple users, making the app more versatile.
+
+3. **Improved UI:**
+   - Future updates will focus on refining the app's user interface, incorporating modern design principles for a visually appealing experience.
+
+4. **Dagger Hilt (Dependency Injection):**
+   - Consideration for Dagger Hilt implementation in future updates to enhance maintainability and scalability through dependency injection.
+
+
