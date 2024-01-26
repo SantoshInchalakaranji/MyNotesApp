@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gold">#FFF1CA</color>
+    <color name="gray">#F5EEE6</color>
+    <color name="brown">#AC7D88</color>
+    <color name="dark_gray">#A9A9A9</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="black_gradient_1">#161508</color>
+    <color name="orange">#F9834B</color>
+    <color name="card_selection_color">#10F9834B</color>
+</resources>
